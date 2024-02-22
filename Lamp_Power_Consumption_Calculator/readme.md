@@ -29,7 +29,7 @@ Power Consumption (in kilowatt-hours) = (Wattage of Lamp * Time (in hours)) / 10
 ## Usage
 To use the script, follow these steps:
 
-1. Clone the repository:
-
    ```bash
-   git clone https://github.com/your-username/lamp-power-consumption-calculator.git
+   git clone https://github.com/Elmoumen202a/Real-World-Projects.git
+   
+   cd Real-World-Projects/Lamp_Power_Consumption_Calculator
