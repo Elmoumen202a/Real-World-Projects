@@ -5,11 +5,12 @@ Welcome to the Real-World-Projects repository! This collection features innovati
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
+   
    - [1. Lamp Power Consumption Calculator ](#Lamp-Power-Consumption-Calculator)
    - 
-3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [Getting Started](#getting-started)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction
 In a rapidly evolving world, it's crucial to channel our efforts into creating practical solutions for real-world problems. This repository aims to showcase a variety of projects that contribute to making our planet more sustainable, energy-efficient, and environmentally friendly.
