@@ -1,0 +1,5 @@
+#Libraries for weather functionality
+requests==2.31.0
+
+# Library for Google Maps functionality
+googlemaps==4.10.0

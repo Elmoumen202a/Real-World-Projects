@@ -6,6 +6,7 @@ Welcome to the Real-World-Projects repository! This collection features innovati
 1. [Introduction](#introduction)
 2. [Projects](#projects)
    - [1. Lamp Power Consumption Calculator ](#Lamp-Power-Consumption-Calculator)
+   - [2. WeatherPlants  ](#WeatherPlants)
    - 
 3. [Getting Started](#getting-started)
 4. [Contributing](#contributing)
@@ -21,6 +22,10 @@ In a rapidly evolving world, it's crucial to channel our efforts into creating p
 
 Description: This project  helps you calculate the power consumption of a lamp based on its wattage and the time it is turned on.
 
+### 2. WeatherPlants
+🔗 [WeatherPlants](./WeatherPlants)
+
+This project fetches current weather information and determines if it's a good day to grow a plant.
 
 ## Getting Started
 To get started with any project, please refer to the specific project folder's README for detailed instructions, prerequisites, and setup steps.
